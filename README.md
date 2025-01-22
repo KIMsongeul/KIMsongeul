@@ -1,6 +1,6 @@
 ## 김손글의 게임개발 깃허브 🤓
-
-
+김손글의 블로그 
+https://velog.io/@songeul/posts
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KimMinjun)](https://github.com/anuraghazra/github-readme-stats)
 
